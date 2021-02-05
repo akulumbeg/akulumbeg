@@ -1,6 +1,6 @@
 ## Hello World, I'm [Alex](https://akulumbeg.me)! 👋
 
-Research and Teaching Associate @ WU Vienna
+Research and Teaching Associate @ WU Vienna  
 Marketing - CLV, text mining and beyond
 
 - 🎓 Working on my PhD at [SMT | WU Vienna](https://wu.ac.at/sm)

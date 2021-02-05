@@ -13,11 +13,12 @@
    id="layer"
    x="0px"
    y="0px"
-   viewBox="0 0 652 652"
-   style="enable-background:new 0 0 652 652;"
+   viewBox="0 0 210.39798 210.39798"
    xml:space="preserve"
-   sodipodi:docname="rstudio2.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   sodipodi:docname="rstudio.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="210.39798"
+   height="210.39798"><metadata
    id="metadata3789"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -35,8 +36,8 @@
    id="namedview3785"
    showgrid="false"
    inkscape:zoom="1.3006135"
-   inkscape:cx="326"
-   inkscape:cy="326"
+   inkscape:cx="70.803605"
+   inkscape:cy="88.556231"
    inkscape:window-x="-8"
    inkscape:window-y="768"
    inkscape:window-maximized="1"
@@ -50,18 +51,18 @@
 </style>
 <g
    id="Blue_Gradient_Letters"
-   transform="translate(189.14151,-11.533019)">
+   transform="translate(-36.069035,-215.69127)">
 	<g
    id="g3780">
 		
 			<circle
-   transform="matrix(0.7071,-0.7071,0.7071,0.7071,-185.5536,193.8951)"
+   transform="rotate(-45)"
    class="st0"
-   cx="141.3"
-   cy="320.89999"
+   cx="-127.0121"
+   cy="326.79526"
    id="ellipse3754"
-   r="105.2"
-   style="fill:#75aadb" />
+   r="105.19899"
+   style="fill:#75aadb;stroke-width:0.9999904" />
 		<g
    id="g3768">
 			
@@ -88,6 +89,7 @@
 	</g>
 </g>
 <g
-   id="R_Ball">
+   id="R_Ball"
+   transform="translate(-225.21055,-204.15825)">
 </g>
 </svg>

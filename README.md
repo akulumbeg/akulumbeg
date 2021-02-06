@@ -29,16 +29,15 @@ Marketing - CLV, text mining and beyond
 <!-- Bash/Shell -->
 <img align="left" alt="BashShell" width="26px" src="/assets/lang/bash.svg" />
 <!-- Terminal -->
-<img align="left" alt="BashShell" width="26px" src="/assets/lang/terminal.svg" />
+<img align="left" alt="Terminal" width="26px" src="/assets/lang/terminal.svg" />
 <!-- Wordpress -->
-<img align="left" alt="BashShell" width="26px" src="/assets/lang/wordpress.svg" />
+<img align="left" alt="Wordpress" width="26px" src="/assets/lang/wordpress.svg" />
 <!-- Raspberry Pi -->
-<img align="left" alt="BashShell" width="26px" src="/assets/lang/raspi.svg" />
+<img align="left" alt="Raspberry Pi" width="26px" src="/assets/lang/raspi.svg" />
 <!-- Markdown -->
-<img align="left" alt="BashShell" width="26px" src="/assets/lang/markdown.svg" />
+<img align="left" alt="Markdown" width="26px" src="/assets/lang/markdown.svg" />
 <!-- Android -->
-<img align="left" alt="BashShell" width="26px" src="/assets/lang/android.svg" />
-
+<img align="left" alt="Android" width="26px" src="/assets/lang/android.svg" />
 
 <br />
 <br /> 

@@ -27,6 +27,7 @@ Marketing - CLV, text mining and beyond
 <!-- GitHub -->
 <img align="left" alt="GitHub" width="26px" src="/assets/lang/github.svg" />
 <br />
+<br />
 <!-- Bash/Shell -->
 <img align="left" alt="BashShell" width="26px" src="/assets/lang/bash.svg" />
 <!-- Terminal -->

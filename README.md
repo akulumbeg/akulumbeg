@@ -25,9 +25,11 @@ Marketing - CLV, text mining and beyond
 <!-- Git -->
 <img align="left" alt="Git" width="26px" src="/assets/lang/git.svg" />
 <!-- GitHub -->
-<img align="left" alt="GitHub" width="26px" src="/assets/lang/github.svg" />
+<img align="left" alt="GitHub" width="26px" src="/assets/lang/github.svg" />  
+
 <br />
-<br />
+<br />  
+
 <!-- Bash/Shell -->
 <img align="left" alt="BashShell" width="26px" src="/assets/lang/bash.svg" />
 <!-- Terminal -->

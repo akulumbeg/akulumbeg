@@ -3,7 +3,7 @@
 Research and Teaching Associate @ WU Vienna  
 Marketing - CLV, text mining and beyond
 
-- 🎓 Working on my PhD at [SMT | WU Vienna](https://wu.ac.at/sm)
+- 🎓 Working on my PhD at [MCA | WU Vienna](https://wu.ac.at/mca)
 - 📚 Learning Python
 - 🔒 Interested in networks and security
 - 🗺️ Experienced Google Maps traveler (thx Covid)
@@ -42,6 +42,6 @@ Marketing - CLV, text mining and beyond
 <br />
 <br /> 
 
-<!-- to come: Kotlin, C++, PyCharm, VSCode, Linux -->
+<!-- to come: Rust, C++, PyCharm, VSCode, Linux -->
 <!-- ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=akulumbeg&show_icons=true) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akulumbeg)]()

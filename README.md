@@ -44,4 +44,4 @@ Marketing - CLV, text mining and beyond
 
 <!-- to come: Rust, C++, PyCharm, VSCode, Linux -->
 <!-- ![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=akulumbeg&show_icons=true) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akulumbeg)]()
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akulumbeg)]() -->
